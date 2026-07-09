@@ -1,4 +1,4 @@
-# skill swap
+# Digi Lawyer
 
 Skill Swap is an innovative mobile application that enables individuals to connect and exchange skills in a secure and user-friendly environment.
 
